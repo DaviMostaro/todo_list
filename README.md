@@ -45,7 +45,7 @@ http://localhost:3000
 
 
 ## ✅ Funcionalidades
-- [x] <Funcionalidade 1 – Ex: Criação, edição e exclusão de tarefas>
+- [x] Funcionalidade 1 – Ex: Criação, edição e exclusão de tarefas>
 
 
 ## 👨‍💻 Autor
